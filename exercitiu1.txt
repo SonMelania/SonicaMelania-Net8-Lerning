@@ -1,3 +1,4 @@
 ex 1
 ex 2 linie modificata
 ex 3
+Rand 4
